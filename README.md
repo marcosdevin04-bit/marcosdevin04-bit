@@ -26,8 +26,3 @@ Estudiante y desarrollador enfocado en **Machine Learning, análisis de datos e 
 ## Tecnologías
 
 `Python` · `pandas` · `scikit-learn` · `Power BI` · `SQL` · `Flask` · `FastAPI` · `Docker` · `HTML` · `CSS` · `JavaScript`
-
-## Contacto
-
-- GitHub: [github.com/marcosdevin04-bit](https://github.com/marcosdevin04-bit)
-- LinkedIn: agregar enlace en el CV y aquí cuando esté disponible.
