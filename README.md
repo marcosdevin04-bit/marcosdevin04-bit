@@ -1,4 +1,4 @@
-# Hola, soy Marcos Devincenzi 👋
+# Hola, soy Marcos Devincenzi 
 
 Estudiante y desarrollador enfocado en **Machine Learning, análisis de datos e ingeniería de software**. En este perfil reúno proyectos académicos y aplicaciones reales construidas con Python, Power BI, Flask, FastAPI, SQL y tecnologías web.
 
