@@ -1,6 +1,6 @@
-# Hola, soy Marcos Devincenzi 
+# Marcos Devincenzi 
 
-Estudiante de Ingeniería en Inteligencia Artificial y Ciencia de Datos enfocado en **Machine Learning, análisis de datos e ingeniería de software**. En este perfil reúno proyectos académicos y aplicaciones reales construidas con Python, Power BI, Flask, FastAPI, SQL y tecnologías web, todos proyectos académicos, tanto personales que he venido desarrollando hasta el momento.
+Soy Estudiante de Ingeniería en Inteligencia Artificial y Ciencia de Datos en UCU enfocado en **Machine Learning, análisis de datos e ingeniería de software**. En este perfil reúno proyectos académicos y aplicaciones reales construidas con Python, Power BI, Flask, FastAPI, SQL y tecnologías web, todos proyectos académicos, tanto personales que he venido desarrollando hasta el momento.
 
 ## Proyectos destacados
 
