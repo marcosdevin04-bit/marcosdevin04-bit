@@ -13,6 +13,7 @@ Soy Estudiante de Ingeniería en Inteligencia Artificial y Ciencia de Datos en U
 
 ### Desarrollo de software
 
+- [Rodando — web y e-commerce](https://github.com/marcosdevin04-bit/rodando-web-case-study): caso de estudio de un proyecto grupal; mi responsabilidad principal fue el desarrollo de la plataforma web y su experiencia de e-commerce.
 - [DVS Seguros](https://github.com/marcosdevin04-bit/dvs-seguros-web): sitio corporativo responsive con catálogo, cotizadores e internacionalización.
 - [Cotizador DVS](https://github.com/marcosdevin04-bit/dvs-cotizador): prototipo en desarrollo para automatizar y comparar cotizaciones.
 - [El Rincón Guasquería](https://github.com/marcosdevin04-bit/el-rincon-guasqueria): sitio comercial con catálogo dinámico y carrito local.
